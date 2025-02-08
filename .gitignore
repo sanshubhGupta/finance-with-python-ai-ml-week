@@ -1,0 +1,8 @@
+# Virtual Environment
+finance_env
+
+# Python Specific
+.ipynb_checkpoints
+
+# Mac Specific Folders
+.DS_Store
